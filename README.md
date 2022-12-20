@@ -8,7 +8,12 @@ There are multiple branches in this repo that are described more below.
 
 ## How To Run This Project
 
+
+
 ### Install Tools
+
+$ dotnet add package Microsoft.EntityFrameworkCore -v 6.0.0
+$ dotnet add package Pomelo.EntityFrameworkCore.MySql -v 6.0.0
 
 Install the tools that are introduced in [this series of lessons on LearnHowToProgram.com](https://www.learnhowtoprogram.com/c-and-net/getting-started-with-c).
 
